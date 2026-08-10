@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: fribet-bez-depozita.github.io
+Sitemap: https://fribet-bez-depozita.github.io/sitemap.xml
